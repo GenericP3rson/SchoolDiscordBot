@@ -1,0 +1,5 @@
+This bot is designed for a high school Discord group chat.
+
+With the rise of online learning, there came a need for a bell system to keep students on time, and a method to keep track of homework, as online schooling requires meticuolous reading; if one misreads, they might miss the required homework.
+
+This bot does this by implementing a bell system, and allowing a section for students to log and view the homework for the day.
