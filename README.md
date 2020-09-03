@@ -4,4 +4,5 @@ A bot designed to deliver virtual bells complete with Zoom links, along with bei
 
 
 Version 1.0: Discord.py
-Version 2.0: Discord.js
+
+Version 2.0: Discord.js, Cron.js
